@@ -1,0 +1,14 @@
+TouchUI
+Current version: 0.1 alpha
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a jQuery (and other libraries) plugin to allow UI effects and interaction on touch capable devices
+----------
+TouchUI is designed for:
+Easy install -> just a couple lines of code
+Wonderful effects -> animations based on different mobile operating systems
+Fast and no crashes -> updates the interface as fast as the browser can
+Touch input -> support for multi-touch and single touch devices and pop-up keyboad for unsupported form input
+Cross-browser/device capable -> works the same on an Android and an iPhone
+Easy to understand -> simple words and selectors to help you figure it out
+****************************************
+TouchUI by Bill Ferry is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
